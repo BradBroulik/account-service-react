@@ -1,0 +1,9 @@
+accounts:
+- id: "1"
+  name: "Arya"
+- id: "2"
+  name: "Bran"
+- id: "3"
+  name: "Jon"
+- id: "4"
+  name: "Tyrion"
